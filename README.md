@@ -1,18 +1,12 @@
 <h2 align="center">42 School Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/Overtekk/42/tree/main/libft">
-    <img src="assets/libft.png" width="230" alt="Libft Badge"/>
-  </a>
+  <a href="https://github.com/Overtekk/42/tree/main/libft"><img src="assets/libft.png" width="230" alt="Libft Badge"/></a>
   &nbsp;
-  <a href="https://github.com/Overtekk/42/tree/main/ft_printf">
-    <img src="assets/ft_printf.png" width="230" alt="Printf Badge"/>
-  </a>
+  <a href="https://github.com/Overtekk/42/tree/main/ft_printf"><img src="assets/ft_printf.png" width="230" alt="Printf Badge"/></a>
   &nbsp;
-  <a href="https://github.com/Overtekk/42/tree/main/get_next_line">
-    <img src="assets/get_next_line.png" width="230" alt="GNL Badge"/>
-  </a>  
-  </div>
+  <a href="https://github.com/Overtekk/42/tree/main/get_next_line"><img src="assets/get_next_line.png" width="230" alt="GNL Badge"/></a>
+</div>
 
 <br/>
 
