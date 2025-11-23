@@ -2,7 +2,7 @@
 <br />
 
 ---
-# 42 projects
+<h1 align="center">42 projects</h1>
 
 <div align="center">
   <a href="https://github.com/Overtekk/Libft"><img src="assets/libft.png" width="230" alt="Libft Badge"/></a>
@@ -23,3 +23,12 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Overtekk&layout=compact&theme=neon&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
 </div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Overtekk&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+<h2 align="center">Skills</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=ps,pr)](https://skillicons.dev)
