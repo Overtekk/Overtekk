@@ -21,15 +21,16 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Overtekk&show_icons=true&theme=neon&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Overtekk&layout=compact&theme=neon&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats-ten-pi-74.vercel.app/api?username=Overtekk&show_icons=true&theme=neon&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
+
+  <img src="https://github-readme-stats-ten-pi-74.vercel.app/api/top-langs/?username=Overtekk&layout=compact&theme=neon&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
 </div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Overtekk&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 <h2 align="center">Skills</h2>
+
 
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 <br />
