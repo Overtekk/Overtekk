@@ -25,9 +25,6 @@
 
   <img src="https://github-readme-stats-ten-pi-74.vercel.app/api/top-langs/?username=Overtekk&layout=compact&theme=neon&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
 </div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Overtekk&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
-</div>
 
 <h2 align="center">Skills</h2>
 
