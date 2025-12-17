@@ -11,9 +11,11 @@
   &nbsp;
   <a href="https://github.com/Overtekk/get_next_line"><img src="assets/get_next_line.png" width="230" alt="GNL Badge"/></a>
   &nbsp;
-  <a href="https://github.com/Overtekk/so_long"><img src="assets/so_long.png" width="230" alt="GNL Badge"/></a>
+  <a href="https://github.com/Overtekk/so_long"><img src="assets/so_long.png" width="230" alt="so_long Badge"/></a>
   &nbsp;
-  <a href="https://github.com/Overtekk/push_swap"><img src="assets/push_swap.png" width="230" alt="GNL Badge"/></a>
+  <a href="https://github.com/Overtekk/push_swap"><img src="assets/push_swap.png" width="230" alt="push_swap Badge"/></a>
+  &nbsp;
+  <a href="https://github.com/Overtekk/Python-Module-00-10"><img src="assets/python_modules.png" width="230" alt="python_modules Badge"/></a>
 </div>
 
 <br/>
