@@ -15,6 +15,8 @@
   <a href="https://github.com/Overtekk/push_swap"><img src="assets/push_swap.png" width="230" alt="push_swap Badge"/></a>
   &nbsp;
   <a href="https://github.com/Overtekk/Python-Module-00-10"><img src="assets/python_modules.png" width="230" alt="python_modules Badge"/></a>
+  &nbsp;
+  <a href="https://github.com/Overtekk/A_Maze_ing"><img src="assets/a_maze_ing.png" width="230" alt="a_maze_ing Badge"/></a>
 </div>
 
 <br/>
