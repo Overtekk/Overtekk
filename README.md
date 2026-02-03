@@ -18,6 +18,8 @@
   <a href="https://github.com/Overtekk/Python-Module-00-10"><img src="assets/python_modulesv2.png" width="150" alt="python_modules Badge"/></a>
   &nbsp;
   <a href="https://github.com/Overtekk/A_Maze_ing"><img src="assets/a_maze_ingv2.png" width="150" alt="a_maze_ing Badge"/></a>
+  &nbsp;
+  <a href="https://github.com/Overtekk/Codexion"><img src="assets/codexion.png" width="150" alt="codexion Badge"/></a>
 </div>
 
 <br/>
