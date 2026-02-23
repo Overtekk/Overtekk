@@ -20,6 +20,10 @@
   <a href="https://github.com/Overtekk/A_Maze_ing"><img src="assets/a_maze_ingv2.png" width="150" alt="a_maze_ing Badge"/></a>
   &nbsp;
   <a href="https://github.com/Overtekk/Codexion"><img src="assets/codexion.png" width="150" alt="codexion Badge"/></a>
+  &nbsp;
+  <a href="https://github.com/Overtekk/Fly-in"><img src="assets/fly_in.png" width="150" alt="fly_in Badge"/></a>
+  &nbsp;
+  <a href="https://github.com/Overtekk/Call_Me_Maybe"><img src="assets/call_me_maybe.png" width="150" alt="call_me_maybe Badge"/></a>
 </div>
 
 <br/>
