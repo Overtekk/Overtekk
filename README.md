@@ -7,6 +7,7 @@
 
 💡 &nbsp; I'm a student in formation at 42 Le Havre. \
 💻 &nbsp;I'm currently learning programming, developping and game developpement.\
+📀 &nbsp;My favorite langage is Python.\
 ✍️ &nbsp;In my free time, I try to learn as much as I can about other programmation langages, developping my own programm and much more.\
 🌱 &nbsp;You can see my 42 schools project just below.
 
@@ -185,6 +186,7 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=007ACC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)&nbsp;
 ![Godot](https://img.shields.io/badge/-Godot-05122A?style=flat&logo=godotengine&logoColor=007ACC)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=photoshop&logoColor=007ACC)&nbsp;
