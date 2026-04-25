@@ -176,6 +176,38 @@
     </table>
   </details>
 
+  <details style="margin-left: 20px;">
+    <summary>📌 Circle 4</summary>
+    <table width="100%">
+      <tr>
+        <th width="30%">Project</th>
+        <th width="70%">Description</th>
+      </tr>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/Overtekk/NetPractice">
+            <img src="assets/netpractice.png" width="150" alt="NetPractice"/>
+          </a>
+        </td>
+        <td>
+          <strong>NetPractice (Python)</strong><br>
+          Discover the basics of networking.
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/Overtekk/PacMan">
+            <img src="assets/pac_man.png" width="150" alt="PacMan"/>
+          </a>
+        </td>
+        <td>
+          <strong>PacMan (Python)</strong><br>
+          Recreate the famous arcade game Pac-man!.
+        </td>
+      </tr>
+    </table>
+  </details>
+
 </details>
 
 ---
