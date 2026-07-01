@@ -213,7 +213,7 @@
         </td>
         <td>
           <strong>RAG Against The Machine (Python)</strong><br>
-          Build a Retrieval-Augmented Generation (RAG) system!.
+          Build a Retrieval-Augmented Generation (RAG) system!
         </td>
       </tr>
     </table>
