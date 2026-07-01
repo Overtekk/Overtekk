@@ -205,6 +205,17 @@
           Recreate the famous arcade game Pac-man!.
         </td>
       </tr>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/Overtekk/RAG-against-the-machine">
+            <img src="assets/rag.png" width="150" alt="RAG"/>
+          </a>
+        </td>
+        <td>
+          <strong>RAG Against The Machine (Python)</strong><br>
+          Build a Retrieval-Augmented Generation (RAG) system!.
+        </td>
+      </tr>
     </table>
   </details>
 
