@@ -12,7 +12,7 @@
 🌱 &nbsp;You can see my 42 schools project just below.
 
 <details>
-  <summary>🚀 42 Cursus Projects</summary>
+  <summary><h3>🚀 42 Cursus Projects</h3></summary>
   <br>
 
   <details style="margin-left: 20px;">
